@@ -56,3 +56,20 @@ rise of social media which can be pitted against
 rise of solo artists 
 
 show Year-End Hot 100 chart billboard every 5 years starting in 2005 - 2010 - 2015 - 2020
+
+
+Questions to be answered
+
+Question 2: Did the rise of other genres impact rock music's presence on the charts?
+
+I have the best songs from spotify from 2000 - 2023 to show the different genres of music 
+
+plot out all the genres to see what the most popular one is each year 
+
+Question 3: How much did the changes in the medium of music consumption affect rock music artists and sales (CDs to streaming platforms)?
+
+This can be shown with the Music data sales csv and also the rise in social media
+
+Question 4: How did the rise of solo artists in various genres impact the popularity and presence of traditional rock bands?
+
+I can show this with the decline in bands with the billboard top 100 data set 
