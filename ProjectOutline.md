@@ -5,7 +5,7 @@
 # Questions (I may choose a selection of these maybe not all I could also add some)
 ### Question 1: What factors contributed to the decline in popularity of rock music during the 2000s
 
-### Question 2: Did the rise of other genres impact the genre's presence on the charts?
+### Question 2: Did the rise of other genres impact the rock music's presence on the charts?
 
 ### Question 3: How much did the changes in the medium of music consumption affect rock music artists and sales (CDs to Streaming platforms)?
 
@@ -31,3 +31,28 @@ Live music in the U.S. | Statista (flo.org) (I think this could be useful to see
 
 ## I anticipate that both classification and regression will be used as I am likely to analyzing things like sales numbers, ages of demographics and likelihood of listening different genres based on age etc
 Text only submission
+
+
+# Data sets used (statistia login did not work at time of work being done)
+
+https://primesound.org/popular-music-genres/
+
+
+https://www.kaggle.com/datasets/conorvaneden/best-songs-on-spotify-for-every-year-2000-2023
+
+https://musicbusinessresearch.wordpress.com/
+
+https://public.tableau.com/app/profile/riaa1295/viz/U_S_RecordedMusicSalesVolumesbyFormat_0
+SalesVolumebyFormat
+
+https://www.statista.com/statistics/186772/album-shipments-in-the-us-music-industry-since-1999/'
+
+I have data sets for best songs on spotify 2000-2023
+
+Music data sales from 1980 to present
+
+rise of social media which can be pitted against 
+
+rise of solo artists 
+
+show Year-End Hot 100 chart billboard every 5 years starting in 2005 - 2010 - 2015 - 2020
